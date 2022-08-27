@@ -1,0 +1,12 @@
+@import './styles/global.css';
+@import './styles/header.css';
+@import './styles/navExternal.css';
+@import './styles/section1.css';
+@import './styles/section2.css';
+@import './styles/section3.css';
+@import './styles/emailNews.css';
+@import './styles/footer.css';
+@import './styles/cartSection.css';
+@import './styles/mediaQuery.css';
+@import './styles/nav.css';
+@import './styles/overlay.css';
